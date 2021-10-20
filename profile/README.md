@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-A new open **digital platform focused solely on networking and collaboration**. Our mission is to create the best open source tools to **connect an expanding network** of people, experts, industry leaders and investors to help source and elevate innovations across the world, and have a real impact on the future **social and economic developmen**t a local community. 
+A new open **digital platform focused solely on networking and collaboration**. Our mission is to create the best open source tools to **connect an expanding network** of people, experts, industry leaders and investors to help source and elevate innovations across the world, and have a real impact on the future **social and economic developmen**t of their local community. 
 
-By encouraging **the creativity and expertise of grassroots innovators** who can meaningfully contribute to local advancements. Through dialog and collaborative action, our platform aspires to nurture **a world where** **anyone with ideas and solutions is empowered to address the world’s most pressing challenges.**
+By encouraging **the creativity and expertise of grassroots innovators and protagonist** who can meaningfully contribute to local advancements. Through dialog and collaborative action, our platform aspires to nurture **a world where** **anyone with ideas and solutions is empowered to address the world’s most pressing challenges.**
 
 <!--
 
