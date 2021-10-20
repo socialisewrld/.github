@@ -6,15 +6,15 @@ By encouraging **the creativity and expertise of grassroots innovators and prot
 
 Users can **collaborate, learn techniques, methodologies, theories and models, run their own network(instances)** and all instances are **own, operated and moderated by the community.** 
 
-###**Principles**
+### Principles 🙋‍
 
 ***To augment human capacity and thus advance social well-being and innovation.***
 
-**epistēmē:** *principled system of understanding*
+**Epistēmē:** *principled system of understanding*
 
-**technē:** *a craft or applied practice*
+**Technē:** *a craft or applied practice*
 
-**plan:** We are building sustainable business around a free core application, funded by a premium platform as a service to run it on.
+**Plan:** *we are building sustainable business around a free core application, funded by a premium platform as a service to run it on.*
 
 <!--
 
