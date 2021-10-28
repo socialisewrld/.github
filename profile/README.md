@@ -1,10 +1,14 @@
 ## Welcome 👋
 
-A new open **digital platform focused solely on networking and collaboration**. Our mission is to create the best open source tools to **connect an expanding network** of people, experts, industry leaders and investors to help source and elevate innovations across the world, and have a real impact on the future **social and economic developmen**t of their local community. 
+**We connect people and give them the tools to build their own solutions empowering technological choice.**
 
-By encouraging **the creativity and expertise of grassroots innovators and protagonist** who can meaningfully contribute to local advancements. Through dialog and collaborative action, our platform aspires to nurture **a world where** **anyone with ideas and solutions is empowered to address the world’s most pressing challenges.**
+A new open social technology **platform focused on collaboration and building tools the empower technological choice and diversity**. Our mission is to create the best open source technologies to **connect an expanding network** of people, experts, industry leaders and investors to help **source and build tools that elevate innovations** across the world, and have a real impact on the future **social and economic developmen**t of their local community.
 
-Users can **collaborate, learn techniques, methodologies, theories and models, run their own network(instances)** and all instances are **own, operated and moderated by the community.** 
+By encouraging **the creativity and expertise of grassroots protagonist** who can meaningfully contribute to local advancements. Through collaborative action, our platform aspires to nurture **a world where** **anyone can learn and with ideas is empowered to create tools and solutions  address the world’s most pressing challenges.**
+
+**Collaborate, create and learn techniques, methodologies, theories and models and innovate.** 
+
+**Run your own innovation network(instance). All** instances are **own, operated and moderated by the community.** 
 
 ### Principles 🙋‍
 
