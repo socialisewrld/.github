@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-**We are building a new type of web browser that connects people and give them the tools to build their own solutions empowering technological choice.**
+**We are building a new tech ecosystem that connects people and give them the tools to build their own solutions empowering technological choice.**
 
-A new open social technology **platform focused on collaboration and building tools the empower technological choice and diversity**. Our mission is to create the best open technologies to **connect an expanding network** of people, experts, industry leaders and investors to help **source and build tools that elevate innovations** across the world, and have a real impact on the future **social and economic developmen**t of their local community.
+An open social technology **platform focused on collaboration and building tools the empower technological choice and diversity**. Our mission is to create the best open technologies to **connect an expanding network** of people, experts, industry leaders and investors to help **source and build tools that elevate innovations** across the world, and have a real impact on the future **social and economic developmen**t of their local community.
 
 By encouraging **the creativity and expertise of grassroots protagonist** who can meaningfully contribute to local advancements. Through collaborative action, our platform aspires to nurture **a world where** **anyone can learn and with ideas is empowered to create tools and solutions  address the world’s most pressing challenges.**
 
