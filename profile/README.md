@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome 🎇
 
 **Our vision is to make software universally available and we are building a new tech ecosystem that connects people and give them the tools to build their own solutions empowering technological choice.**
 
@@ -10,7 +10,7 @@ By encouraging **the creativity and expertise of grassroots protagonist** who 
 
 **Run your own innovation network(instance). All** instances are **own, operated and moderated by the community.** 
 
-### Principles 🙋‍
+### Principles🎈
 
 ***To augment human capacity and thus advance social well-being and innovation.***
 
