@@ -1,4 +1,4 @@
-## Welcome 🎇
+## 🎆 Welcome 🎇
 
 **Our vision is to make technology universally available. We are building a new tech ecosystem that connects people and give them the tools to build their own systems of innovation and solutions empowering technological choice.**
 
