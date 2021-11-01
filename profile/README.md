@@ -10,7 +10,7 @@ We envisioned a tech ecosystem that allows for the **creation, application, and 
 
 **Run your own innovation network(instance). All** instances are **own, operated and moderated by the community.** 
 
-### Principles🎈
+### 🎈 Principles🎈
 
 ***To augment human capacity and thus advance social well-being and innovation.***
 
