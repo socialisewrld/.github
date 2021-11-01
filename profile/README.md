@@ -4,7 +4,7 @@
 
 An open social technology **platform focused on collaboration and building tools the empower technological choice**. Our mission is to create the best open technologies to **connect an expanding network** of people, experts, industry leaders and investors to help **source and build tools that elevate innovations** across the world, and have a real impact on the future **social and economic developmen**t of their local community.
 
-By encouraging **the creativity and expertise of grassroots protagonist** who can meaningfully contribute to local advancements. Through collaborative action, our platform aspires to nurture **a world where** **anyone can learn and with ideas is empowered to create tools and solutions address the world’s most pressing challenges.**
+We envisioned a tech ecosystem that allows for the **creation, application, and diffusion of knowledge, tools, techniques and practices that lies at the heart of social progress.** By encouraging **the creativity and expertise of grassroots protagonist** who can meaningfully contribute to local advancements. Through collaborative action, our platform aspires to nurture **a world where anyone can learn and with ideas is empowered to create tools and solutions address the world’s most pressing challenges.**
 
 **Collaborate, create and learn techniques, methodologies, theories and models and innovate.** 
 
