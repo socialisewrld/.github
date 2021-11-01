@@ -1,6 +1,6 @@
 ## Welcome 🎇
 
-**Our vision is to make software universally available. We are building a new tech ecosystem that connects people and give them the tools to build their own solutions and systems of learning empowering technological choice.**
+**Our vision is to make software universally available. We are building a new tech ecosystem that connects people and give them the tools to build their own systems of innovation and solutions empowering technological choice.**
 
 An open social technology **platform focused on collaboration and building tools the empower technological choice**. Our mission is to create the best open technologies to **connect an expanding network** of people, experts, industry leaders and investors to help **source and build tools that elevate innovations** across the world, and have a real impact on the future **social and economic developmen**t of their local community.
 
