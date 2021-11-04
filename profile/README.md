@@ -36,7 +36,7 @@ We envisioned an open social technology platform focused on **collaboration and
 
 1. Channel Server - Omni Channels, Servers and Communities 
 2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Host radio stations and video conferences. 
-3. User Platform - Browse networks, manage profile, connectections, matches and networks.
+3. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
 
 **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly.** 
 
@@ -55,13 +55,3 @@ We envisioned an open social technology platform focused on **collaboration and
 2. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing using modern agile software development practices.
 3. Factory in Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
