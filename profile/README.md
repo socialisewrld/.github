@@ -41,10 +41,10 @@ We envision an open social technology platform focused on **collaboration and b
 
 *Visual Editor meets WYSIWYG|Webflow|Glitch|Copilot|Visual Studio Code.*
 
-1. Live Server - Hot Reload for pragramming language using WebAssembly - VS Code Extension 
+1. Live Server - Client-side hot reload for any programming language using WebAssembly - VS Code Extension 
 2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
 3. Code Server - VS Code on the Web and API to expose functionality and extensions  
-4. User Platform - Publish and Fork software and content i.e. applications, games, animations etc..
+4. User Platform - Publish, Fork and Share software and content i.e. applications, games, animations etc..
 
 * **Make the creation and application of hardware universally available. Using recent advances in 2D Materials, 3D Printing and Manufacturing Technologies and Robotics.**
 
