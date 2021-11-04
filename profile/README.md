@@ -34,7 +34,7 @@ We envision an open social technology platform focused on **collaboration and b
 *EdTech meets LinkedIn|Y Combinator|Discord|Mana||Cousera* 
 
 1. Channel Server - Omni Channels, Servers and Communities 
-2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Host radio stations and video conferences. 
+2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive publications.   
 3. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
 
 * **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly.** 
@@ -44,7 +44,7 @@ We envision an open social technology platform focused on **collaboration and b
 1. Live Server - Hot Reload for pragramming language using WebAssembly - VS Code Extension 
 2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
 3. Code Server - VS Code on the Web and API to expose functionality and extensions  
-4. User Platform - Publish and Fork softare and content i.e. applications, games, animations etc..
+4. User Platform - Publish and Fork software and content i.e. applications, games, animations etc..
 
 * **Make the creation and application of hardware universally available. Using recent advances in 2D Materials, 3D Printing and Manufacturing Technologies and Robotics.**
 
