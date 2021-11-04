@@ -52,5 +52,5 @@ We envisioned an open social technology platform focused on **collaboration and
 
 1. Roborg - [The Everday Robot Project](https://github.com/roboapps)
 2. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing using modern agile software development practices.
-3. Factory in Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
+3. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
 
