@@ -40,7 +40,7 @@ We envisioned an open social technology platform focused on **collaboration and
 
 **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly.** 
 
-*Visual Editor meets WYSIWYG|Webflow|Glitch|Copilot|Visual Studio Code.
+*Visual Editor meets WYSIWYG|Webflow|Glitch|Copilot|Visual Studio Code.*
 
 1. Live Server - Hot Reload for pragramming language using WebAssembly - VS Code Extension 
 2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
