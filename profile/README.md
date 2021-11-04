@@ -26,7 +26,6 @@ We envisioned an open social technology platform focused on **collaboration and
 
 **Technē:** *a craft or applied practice*
 
-**Collaborate, create and learn techniques, methodologies, theories, concepts and innovate.**
 
 ### 🎇 RoadMap (5 Year Plan) 🎇
 
