@@ -27,7 +27,7 @@ We envision an open social technology platform focused on **collaboration and b
 **Technē:** *a craft or applied practice*
 
 
-### 🎇 RoadMap (5 Year Plan) 🎇
+## 🎇 RoadMap (5 Year Plan) 🎇
 
 **Decentralised innovation and collaborative network. A tool designed to provide open real time interactive learning environments using recent advances in modern digital technologies.** 
 
