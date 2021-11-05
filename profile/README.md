@@ -31,26 +31,24 @@ We envision an open social technology platform focused on **collaboration and b
 
 * **Decentralised innovation and collaborative network. A tool designed to provide open real time interactive learning environments using recent advances in modern digital technologies.** 
 
-*EdTech meets LinkedIn|Y Combinator|Discord|Mana||Cousera* 
+    *Inspired by previous work in EdTech i.e. Moodle, Coursera, Mana as well as social and professional networking i.e. LinkedIn, Y Combinator, Discord.* 
 
-1. Channel Server - Omni Channels, Servers and Communities 
-2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive publications.   
-3. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
+    > 1. Channel Server - Omni Channels, Servers and Communities 
+    > 2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive publications.   
+    > 3. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
 
-* **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly.** 
+* **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.** 
 
-*Visual Editor meets WYSIWYG|Webflow|Glitch|Copilot|Visual Studio Code.*
+    *Inspired by previous work in i.e. WYSIWYG Editors, Webflow, Glitch, Thimble, WebMaker.*
 
-1. Live Server - Client-side hot reload for any programming language using WebAssembly - VS Code Extension 
-2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
-3. Code Server - VS Code on the Web and API to expose functionality and extensions  
-4. User Platform - Publish, Fork and Share software and content i.e. applications, games, animations etc..
+    > 1. Live Server - Client-side hot reload for any programming language using WebAssembly - VS Code Extension 
+    > 2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
+    > 3. Code Server - VS Code on the Web and API to expose functionality and extensions  
+    > 4. User Platform - Publish, Fork and Share software and content i.e. applications, games, animations etc..
 
 * **Make the creation and application of hardware universally available. Using recent advances in 2D Materials, 3D Printing and Manufacturing Technologies and Robotics.**
 
-*Neural Compute Chip meets Raspberry Pi*
-
-1. Roborg - [The Everday Robot Project](https://github.com/roboapps)
-2. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
-3. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
+    > 1. Roborg - [The Everday Robot Project](https://github.com/roboapps)
+    > 2. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
+    > 3. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
 
