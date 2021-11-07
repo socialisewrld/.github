@@ -45,10 +45,10 @@ We envision an open social technology platform focused on **collaboration and b
     > 2. Visual Editor - Visual tools, components, drag and drop features - VS Code Extension 
     > 3. Code Server - VS Code on the Web and API to expose functionality and extensions  
     > 4. User Platform - Publish, Fork and Share software and content i.e. applications, games, animations etc..
+    > 5. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
 
-* **Make the creation and application of hardware universally available. Using recent advances in 2D Materials, 3D Printing and Manufacturing Technologies and Robotics.**
+* **Make the creation and application of hardware and robotics universally available. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.**
 
     > 1. Roborg - [The Everday Robot Project](https://github.com/roboapps)
-    > 2. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
-    > 3. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
+    > 2. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
 
