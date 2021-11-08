@@ -29,14 +29,6 @@ We envision an open social technology platform focused on **collaboration and b
 
 ## 🎇 RoadMap (5 Year Plan) 🎇
 
-* **Decentralised innovation and collaborative network. A tool designed to provide open real time interactive learning environments using recent advances in modern digital technologies.** 
-
-    *Inspired by previous work in EdTech i.e. Moodle, Coursera, Mana as well as social and professional networking i.e. LinkedIn, Y Combinator, Discord.* 
-
-    > 1. Channel Server - Omni Channels, Servers and Communities 
-    > 2. Chat and Blogging Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive publications.   
-    > 3. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
-
 * **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.** 
 
     *Inspired by previous work in i.e. WYSIWYG Editors, Webflow, Glitch, Thimble, WebMaker.*
@@ -51,4 +43,12 @@ We envision an open social technology platform focused on **collaboration and b
 
     > 1. Roborg - [The Everday Robot Project](https://github.com/roboapps)
     > 2. Factory in a Box - A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies.
+
+* **Decentralised innovation and collaborative network. A tool designed to provide open real time interactive learning environments using recent advances in modern digital technologies.** 
+
+    *Inspired by previous work in EdTech i.e. Moodle, Coursera, Mana as well as social and professional networking i.e. LinkedIn, Y Combinator, Discord.* 
+
+    > 1. Channel Server - Omni Channels, Servers and Communities 
+    > 2. Communication Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive applications and publications.   
+    > 4. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
 
