@@ -49,7 +49,7 @@ We envision an open social technology platform focused on **collaboration and b
     *Inspired by previous work in EdTech i.e. Moodle, Coursera, Mana as well as social and professional networking i.e. LinkedIn, Y Combinator, Discord.* 
 
     > 1. Channel Server - Omni Channels, Servers and Communities 
-    > 2. Communication Server - Real time chat and collaboration platform, using text message, audio and video. Create interactive applications and publications.   
-    > 3. Web Maker Server - Creating applications, bots and applets, content for the Web 3.0
-    > 4. User Platform - Browse innovation and learning networks, manage profile, make connections and recommended collaborations.
+    > 2. Communication Server - Real time chat and collaboration platform, using text message, audio and video.   
+    > 3. Web Maker Server - Create interactive applications, publications, bots, applets and content for the Web 3.0
+    > 4. User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations.
 
