@@ -35,7 +35,7 @@ We envision an open social technology platform focused on **collaboration and b
 
     > 1. Channel Server - Omni Channels, Servers and Communities 
     > 2. Communication Server - Real time chat and collaboration platform, using text message, audio and video.   
-    > 3. Web Maker Server - Create interactive applications, publications, bots, applets and content for the Web 3.0
+    > 3. Web Maker Server - Create interactive applications, experiences, publications, bots, applets and content for the Web3
     > 4. User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations.
 
 * **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.** 
