@@ -35,8 +35,7 @@ We envision an open social technology platform focused on **collaboration and b
 
     > 1. Channel Server - Omni Channels, Servers and Communities 
     > 2. Communication Server - Real time chat and collaboration platform, using text message, audio and video.   
-    > 3. Web Maker Server - Create interactive applications, experiences, publications, bots, applets and content for the Web3
-    > 4. User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations.
+    > 3. User Platform - Browse innovation and learning networks and content, manage profile, make connections and recommended collaborations. Create interactive applications, experiences, publications, bots, applets and content for the Web3.
 
 * **Make the creation and application of software universally available. A tool designed to easily create and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.** 
 
@@ -45,7 +44,7 @@ We envision an open social technology platform focused on **collaboration and b
     > 1. Live Server - Client-side hot reload for any programming language using WebAssembly
     > 2. Code Server - Code Editor on the Web and API to expose functionality and extensions  
     > 3. Visual Editor - Visual tools, components, drag and drop features
-    > 4. User Platform - Publish, Fork and Share software and content i.e. applications, games, animations etc..
+    > 4. User Platform - Web Maker, Publish, Fork and Share software and content i.e. applications, games, animations etc..
     > 5. Open Virtual Hardware - A platform for application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
 
 * **Make the creation and application of hardware and robotics universally available. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.**
